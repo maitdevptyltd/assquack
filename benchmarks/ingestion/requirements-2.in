@@ -1,0 +1,2 @@
+-r requirements-common.in
+duckdb==1.6.0.dev379

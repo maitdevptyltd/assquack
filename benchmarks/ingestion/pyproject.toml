@@ -1,0 +1,19 @@
+[tool.ruff]
+extend = "../../pyproject.toml"
+extend-exclude = [".venvs", "results", "scratch"]
+
+[tool.ruff.lint]
+# Keep benchmark SQL and recorded diagnostic strings easy to compare verbatim.
+ignore = ["E501"]
+
+[tool.pyright]
+include = ["setup_envs.py", "run_suite.py", "test_harness.py", "schema_fixtures.py", "schema_experiments.py", "final_asset_benchmark.py", "actual_prefect_comparison.py", "actual_prefect_schema_checks.py", "duckdb_version_comparison.py"]
+exclude = [".venvs", "results", "scratch"]
+extraPaths = ["../../.submodules/MAD.Prefect"]
+venvPath = ".venvs"
+venv = "155"
+pythonVersion = "3.11"
+typeCheckingMode = "basic"
+
+[tool.pytest.ini_options]
+testpaths = ["test_harness.py"]

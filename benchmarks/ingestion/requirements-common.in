@@ -1,0 +1,12 @@
+# Versions used in the original experiments. This is an isolated research environment.
+prefect==3.8.4
+pandas==2.3.3
+fsspec==2025.9.0
+sshfs==2024.9.0
+pyarrow==21.0.0
+jsonlines==4.0.0
+psutil==7.1.0
+pydantic==2.12.0
+pytest==8.4.2
+ruff==0.15.0
+pyright==1.1.409

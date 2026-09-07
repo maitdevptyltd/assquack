@@ -81,6 +81,10 @@ Do not write end-user how-to material in epic docs. Put developer-facing usage
 guidance, examples, and API explanations in the regular docs, then link to them
 from the epic phase when implementors need context.
 
+## Research
+
+- [Reproducible ingestion benchmarks](02-ingestion-research/00-reproducible-benchmarks.md): experimental evidence, separate from MVP implementation.
+
 ## Related Docs
 
 - [Roadmap](../roadmap.md): implementation sequencing and future work.
