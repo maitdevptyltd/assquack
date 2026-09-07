@@ -57,6 +57,11 @@ the topic links that match the work in front of you.
 - [Developer Examples](developer-examples.md): concise usage examples for the
   path-first API.
 
+## Research
+
+- [Ingestion benchmarks](../benchmarks/ingestion/README.md): reproducible fixtures,
+  pinned setup and actual MAD.Prefect comparisons for storage research.
+
 ## Historical Pointer
 
 - [Original MVP Plan Archive](assquack-mvp-plan.md): retained as the original

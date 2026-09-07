@@ -1,0 +1,1201 @@
+{
+  "155": {
+    "json_pages": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "json_stream": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "json_gzip": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "parquet_pages": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "object_scalar": {
+        "status": "failed",
+        "error_type": "ConversionException"
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "missing_null": {
+        "status": "failed",
+        "error_type": "ConversionException"
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "variant_aggregate": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "variant_reader": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "variant_native": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "failed",
+        "error_type": "TypeMismatchException"
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "json_reader": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    }
+  },
+  "2": {
+    "json_pages": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "json_stream": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "json_gzip": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "parquet_pages": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "object_scalar": {
+        "status": "failed",
+        "error_type": "ConversionException"
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "variant_aggregate": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": false
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": false,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "variant_reader": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "variant_native": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "failed",
+        "error_type": "TypeMismatchException"
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    },
+    "json_reader": {
+      "late_fields": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "same_batch_late_field": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "numeric_widening": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "number_string": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "object_scalar": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "mixed_arrays": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "dates": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "large_numbers": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "awkward_keys": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "case_collision": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_then_populated": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "missing_null": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "wide_nested": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "fortieth_fragment": {
+        "status": "passed",
+        "same_schema": true,
+        "same_rows": true
+      },
+      "empty_extraction": {
+        "status": "no_data"
+      }
+    }
+  }
+}

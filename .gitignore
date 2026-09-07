@@ -13,3 +13,8 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# Ingestion benchmark environments and generated evidence.
+benchmarks/ingestion/.venvs/
+benchmarks/ingestion/results/
+benchmarks/ingestion/scratch/
