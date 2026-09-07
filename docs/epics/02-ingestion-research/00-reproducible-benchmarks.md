@@ -1,6 +1,6 @@
 # Reproducible Ingestion Benchmarks
 
-Status: **In Progress**
+Status: **Complete**
 Last updated: 2026-09-07
 Epic: 02 Ingestion Research
 Phase: 00
@@ -32,10 +32,15 @@ instructions and a compact validation record are reviewable in Git.
 - [x] Package portable experiments and schema fixtures.
 - [x] Pin research dependencies and reference submodule identity.
 - [x] Add validation for failure reporting and result correctness.
-- [ ] Validate both engines from a clean checkout before the Slack handoff.
+- [x] Validate both engines from a clean checkout before the Slack handoff.
 
 ## Validation
 
 Run the commands in the benchmark guide. Completion requires both full engine
 matrices, harness tests, lint, type checks, documentation links and Git whitespace
 checks. Expected OOM/schema limitations must remain explicitly reported.
+
+Completed on 7 September 2026: both matrices passed their expected outcomes
+(56 quick runs and 56 full runs), with harness and core checks also verified.
+The [validation record](../../../benchmarks/ingestion/VALIDATION.md) retains the
+exact source revisions, output checksum, observed timings and limitations.

@@ -5,6 +5,9 @@ compare the actual MAD.Prefect data-asset lifecycle with alternative ingestion
 paths on **DuckDB 1.5.5 and a pinned DuckDB 2 alpha**. They do not choose or
 implement Assquack's production storage architecture.
 
+See the [clean-checkout validation record](VALIDATION.md) for the tested revisions,
+observed results and remaining limitations.
+
 ## Run from a clean checkout
 
 Install Python 3.11, Git and [uv](https://docs.astral.sh/uv/getting-started/installation/).
